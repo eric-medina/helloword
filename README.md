@@ -2,4 +2,4 @@
 
 Esse é o meu primeiro projeto no github
 
-by Eri Medina
+by Eric Medina

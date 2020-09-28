@@ -1,5 +1,5 @@
 # helloword
 
-Esse é o meu primeiro projeto no github
+Esse é o meu primeiro projeto JS
 
 by Eric Medina
